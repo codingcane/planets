@@ -1,2 +1,7 @@
 Mars is cold and dry.
 The two moons may be a problem for wolfman.
+<<<<<<< HEAD
+=======
+He will appreciate the lack of humidity.
+We will need to address water issues.
+>>>>>>> b6232111e504c991469d49159e5e250acf59ede0
